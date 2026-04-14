@@ -1,38 +1,7 @@
-header{
-    color: #53a8b6;
-    background-color: #bbe4e9;
-    padding: 40px 20px;
-    font-family: 'Open Sans';
-    margin-bottom: 16px;
+h1, h2{
+    font-family: "Montserrat", sans-serif;
 }
 
-h1{
-    color: #5585b5;
-    background-color: #79c2d0;
-    padding: 40px 20px;
-    font-family: 'Open Sans';
-    margin-bottom: 16px;
-}
-
-nav{
-    color: #53a8b6;
-    background-color: #bbe4e9;
-    padding: 40px 20px;
-    font-family: 'Open Sans';
-    margin-bottom: 16px;
-}
-
-nav a {
-    color: #5585b5;
-    padding: 40px 20px;
-    font-family: 'Open Sans';
-    margin-bottom: 16px;
-}
-
-title{
-    color: #5585b5;
-    background-color: #79c2d0;
-    padding: 40px 20px;
-    font-family: 'Open Sans';
-    margin-bottom: 16px;    
+body, p{
+    font-family: "Open Sans", sans-serif;
 }
