@@ -1,0 +1,50 @@
+/* Asegura que el footer se mantenga al final de la página */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+main {
+  flex: 1;
+}
+
+/* Estilos para el footer */
+footer {
+  /* Propiedad: background-color */
+  /* Ejemplo: #F5F5F5 (un tono gris claro) */
+  /* Por qué importa: Diferenciar visualmente las secciones */
+  background-color: #f5f5f5;
+
+  /* Propiedad: padding */
+  /* Ejemplo: 40px (arriba y abajo) 20px (izquierda y derecha) */
+  /* Por qué importa: Que el contenido no esté pegado al borde */
+  padding: 40px 20px;
+
+  /* Propiedad: font-family */
+  /* Ejemplo: 'Open Sans' (asegúrate de haberla importado) */
+  /* Por qué importa: Aplicar las fuentes elegidas */
+  font-family: 'Open Sans', sans-serif;
+
+  /* Propiedad: color de texto */
+  /* Ejemplo: #1A1A2E (un tono azul oscuro) */
+  /* Por qué importa: Legibilidad sobre el fondo */
+  color: #1a1a2e;
+
+  text-align: center;
+}
+
+/* Estilos para elementos dentro del footer */
+footer p {
+  /* Propiedad: margin entre elementos */
+  /* Ejemplo: margin-bottom: 16px */
+  /* Por qué importa: Separar párrafos y títulos */
+  margin: 0 0 16px 0;
+}
+
+/* Si tienes un título en el footer */
+footer h3 {
+  /* Usando el mismo margin-bottom para consistencia */
+  margin: 0 0 16px 0;
+}
