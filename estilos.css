@@ -36,3 +36,35 @@ footer{
     font-family: 'Open Sans';
     margin-bottom: 16px;
 }
+
+#tecnologías {
+    color: #1d3557ff;
+    background-color: rgb(117, 185, 187);
+    padding: 40px 20px;
+    font-family: 'Open Sans';
+    margin-bottom: 16px;
+}
+
+#contacto {
+    color: #1d3557ff;
+    background-color: rgb(74, 152, 155);
+    padding: 40px 20px;
+    font-family: 'Open Sans';
+    margin-bottom: 16px;
+}
+
+#QuienesSomos {
+    color: #1d3557ff;
+    background-color: rgb(69, 177, 180);
+    padding: 40px 20px;
+    font-family: 'Open Sans';
+    margin-bottom: 16px;
+}
+
+#Proyectos {
+    color: #1d3557ff;
+    background-color: git argb(79, 154, 158);
+    padding: 40px 20px;
+    font-family: 'Open Sans';
+    margin-bottom: 16px;
+}
