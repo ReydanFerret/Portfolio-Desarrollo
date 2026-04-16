@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h2{
+    font-family: "Montserrat", sans-serif;
+}
+
+body, p{
+    font-family: "Open Sans", sans-serif;
+}
+
+header{
+    color: #1d3557ff;
+    background-color: #a8dadcff;
+    padding: 40px 20px;
+    font-family: 'Open Sans';
+    margin-bottom: 16px;
+}
+
+nav{
+    color: #1d3557ff;
+    background-color: rgb(106, 188, 190);
+    padding: 40px 20px;
+    font-family: 'Open Sans';
+    margin-bottom: 16px;
+    display: inline-flex;
+}
+
+footer{
+    color: #1d3557ff;
+    background-color: #a8dadcff;
+    padding: 40px 20px;
+    font-family: 'Open Sans';
+    margin-bottom: 16px;
+}
+
+#tecnologías {
+    color: #1d3557ff;
+    background-color: rgb(117, 185, 187);
+    padding: 40px 20px;
+    font-family: 'Open Sans';
+    margin-bottom: 16px;
+}
+
+#contacto {
+    color: #1d3557ff;
+    background-color: rgb(74, 152, 155);
+    padding: 40px 20px;
+    font-family: 'Open Sans';
+    margin-bottom: 16px;
+}
+
+#QuienesSomos {
+    color: #1d3557ff;
+    background-color: rgb(69, 177, 180);
+    padding: 40px 20px;
+    font-family: 'Open Sans';
+    margin-bottom: 16px;
+}
+
+#Proyectos {
+    color: #1d3557ff;
+    background-color: rgb(79, 154, 158);
+    padding: 40px 20px;
+    font-family: 'Open Sans';
+    margin-bottom: 16px;
+}
