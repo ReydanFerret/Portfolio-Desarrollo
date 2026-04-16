@@ -26,7 +26,9 @@ nav{
     padding: 40px 20px;
     font-family: 'Open Sans';
     margin-bottom: 16px;
-    display: inline-flex;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 footer{
